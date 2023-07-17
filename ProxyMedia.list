@@ -2,6 +2,14 @@
 # 更新：2023-06-04 16:14:19
 # 数量：365条
 
+#chaobi
+DOMAIN-SUFFIX,uniswap.com
+DOMAIN-SUFFIX,uniswap.org
+DOMAIN-SUFFIX,binance.com
+DOMAIN-SUFFIX,okex.com
+DOMAIN-SUFFIX,bitget.com
+DOMAIN-SUFFIX,onekey.so
+
 # ABC
 DOMAIN-SUFFIX,edgedatg.com
 DOMAIN-SUFFIX,go.com
